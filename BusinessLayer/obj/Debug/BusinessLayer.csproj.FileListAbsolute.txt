@@ -1,0 +1,11 @@
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.pdb
