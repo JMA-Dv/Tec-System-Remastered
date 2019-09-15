@@ -42,6 +42,62 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Readers\AbsencesReader.cs" />
+    <Compile Include="Readers\AcademiesReader.cs" />
+    <Compile Include="Readers\ActivitiesReader.cs" />
+    <Compile Include="Readers\CalificationsReader.cs" />
+    <Compile Include="Readers\CareersReader.cs" />
+    <Compile Include="Readers\DetActivitiesReader.cs" />
+    <Compile Include="Readers\DetGroupsReader.cs" />
+    <Compile Include="Readers\EmployeesReader.cs" />
+    <Compile Include="Readers\EntityReader.cs" />
+    <Compile Include="Readers\GroupsReader.cs" />
+    <Compile Include="Readers\JobsReader.cs" />
+    <Compile Include="Readers\LocationsReader.cs" />
+    <Compile Include="Readers\LocationTypesReader.cs" />
+    <Compile Include="Readers\MunicipalitiesReader.cs" />
+    <Compile Include="Readers\PersonReader.cs" />
+    <Compile Include="Readers\ProfessorsReader.cs" />
+    <Compile Include="Readers\SchedulesReader.cs" />
+    <Compile Include="Readers\SpecialitiesReader.cs" />
+    <Compile Include="Readers\StatesReader.cs" />
+    <Compile Include="Readers\StreetsReader.cs" />
+    <Compile Include="Readers\StudentsReader.cs" />
+    <Compile Include="Readers\SubjectsReader.cs" />
+    <Compile Include="Validators\AcademiesValidator.cs" />
+    <Compile Include="Validators\ActivitiesValidator.cs" />
+    <Compile Include="Validators\CaliicationsValidator.cs" />
+    <Compile Include="Validators\CareersValidator.cs" />
+    <Compile Include="Validators\EntityValidator.cs" />
+    <Compile Include="Validators\GroupsValidator.cs" />
+    <Compile Include="Validators\JobsValidator.cs" />
+    <Compile Include="Validators\PersonsValidator.cs" />
+    <Compile Include="Validators\ProfessorsValidator.cs" />
+    <Compile Include="Validators\SpecialitiesValidator.cs" />
+    <Compile Include="Validators\StudentsValidator.cs" />
+    <Compile Include="Validators\SubjectsValidator.cs" />
+    <Compile Include="Writers\AbsencesWriter.cs" />
+    <Compile Include="Writers\AcademiesWriter.cs" />
+    <Compile Include="Writers\ActivitiesWriter.cs" />
+    <Compile Include="Writers\CalificationsWriter.cs" />
+    <Compile Include="Writers\CareersWriter.cs" />
+    <Compile Include="Writers\DetActivitiesWriter.cs" />
+    <Compile Include="Writers\DetGroupsWriter.cs" />
+    <Compile Include="Writers\EmployeesWriter.cs" />
+    <Compile Include="Writers\EntityWriter.cs" />
+    <Compile Include="Writers\GroupsWriter.cs" />
+    <Compile Include="Writers\JobsWriter.cs" />
+    <Compile Include="Writers\LocationsWriter.cs" />
+    <Compile Include="Writers\LocationTypesWriter.cs" />
+    <Compile Include="Writers\MunicipalitiesWriter.cs" />
+    <Compile Include="Writers\PersonWriter.cs" />
+    <Compile Include="Writers\ProfessorsWriter.cs" />
+    <Compile Include="Writers\SchedulesWriter.cs" />
+    <Compile Include="Writers\SpecialitiesWriter.cs" />
+    <Compile Include="Writers\StatesWriter.cs" />
+    <Compile Include="Writers\StreetsWriter.cs" />
+    <Compile Include="Writers\StudentsWriter.cs" />
+    <Compile Include="Writers\SubjectsWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataLayer\DataLayer.csproj">
@@ -53,5 +109,6 @@
       <Name>EntitiesLayer</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
