@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>PresentationLayer</RootNamespace>
     <AssemblyName>PresentationLayer</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,27 +47,94 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\AgregarPersonaModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\AgregarPersonaModule.Designer.cs">
+      <DependentUpon>AgregarPersonaModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\AlumnosModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\AlumnosModule.Designer.cs">
+      <DependentUpon>AlumnosModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\CarrerasModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\CarrerasModule.Designer.cs">
+      <DependentUpon>CarrerasModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EspecialidadesModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\EspecialidadesModule.Designer.cs">
+      <DependentUpon>EspecialidadesModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\GruposModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\GruposModule.Designer.cs">
+      <DependentUpon>GruposModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\HorariosModules.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\HorariosModules.Designer.cs">
+      <DependentUpon>HorariosModules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MateriasModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MateriasModule.Designer.cs">
+      <DependentUpon>MateriasModule.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\AgregarPersonaModule.resx">
+      <DependentUpon>AgregarPersonaModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\AlumnosModule.resx">
+      <DependentUpon>AlumnosModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\CarrerasModule.resx">
+      <DependentUpon>CarrerasModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EspecialidadesModule.resx">
+      <DependentUpon>EspecialidadesModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\GruposModule.resx">
+      <DependentUpon>GruposModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\HorariosModules.resx">
+      <DependentUpon>HorariosModules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MateriasModule.resx">
+      <DependentUpon>MateriasModule.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -86,5 +154,6 @@
       <Name>EntitiesLayer</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

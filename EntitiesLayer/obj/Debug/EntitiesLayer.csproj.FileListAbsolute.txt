@@ -3,3 +3,17 @@ C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\EntitiesLayer\bin\Debug\E
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\EntitiesLayer\obj\Debug\EntitiesLayer.dll
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+D:\Repositorio Tecsystem\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+D:\Repositorio Tecsystem\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

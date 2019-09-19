@@ -7,3 +7,26 @@ C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\DataLayer\obj\Debug\DataL
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\DataLayer\obj\Debug\DataLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\DataLayer\bin\Debug\DataLayer.dll
+D:\Repositorio Tecsystem\Tec-System-Remastered\DataLayer\bin\Debug\DataLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Repositorio Tecsystem\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.dll
+D:\Repositorio Tecsystem\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\DataLayer\obj\Debug\DataLayer.pdb
