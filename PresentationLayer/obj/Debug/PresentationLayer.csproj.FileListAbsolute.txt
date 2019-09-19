@@ -12,3 +12,69 @@ C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\PresentationLayer\obj\Deb
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.AgregarPersona.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.MainMenu.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Alumnos.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Carreras.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Especialidades.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Grupos.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Horarios.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Materias.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Repositorio Tecsystem\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.AgregarPersona.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.MainMenu.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Alumnos.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Carreras.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Especialidades.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Grupos.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Horarios.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.Materias.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.MainMenu.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.AgregarPersonaModule.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Alumnos.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Carreras.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Especialidades.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Grupos.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Horarios.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Materias.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\EntitiesLayer.dll
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\Tec-System-Remastered - Copy\PresentationLayer\bin\Debug\EntitiesLayer.pdb
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.MainMenu.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.AgregarPersonaModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.AlumnosModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.CarrerasModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.EspecialidadesModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.GruposModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.HorariosModules.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Modules.MateriasModule.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Tec-System-Remastered - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

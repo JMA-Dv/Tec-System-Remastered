@@ -9,3 +9,28 @@ C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\B
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\CLARKE\source\repos\Tec-System-Super-Remaster\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Repositorio Tecsystem\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Repositorio Tecsystem\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Repositorio Tecsystem\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\BusinessLayer\obj\Debug\BusinessLayer.pdb
