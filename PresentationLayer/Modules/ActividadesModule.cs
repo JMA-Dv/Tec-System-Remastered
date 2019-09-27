@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PresentationLayer.Modules
 {
-    public partial class MateriasModule : UserControl
+    public partial class ActividadesModule : UserControl
     {
-        public MateriasModule()
+        public ActividadesModule()
         {
             InitializeComponent();
         }

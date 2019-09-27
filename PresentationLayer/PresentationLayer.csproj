@@ -53,17 +53,23 @@
     <Compile Include="Forms\MainMenu.Designer.cs">
       <DependentUpon>MainMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modules\AgregarPersonaModule.cs">
+    <Compile Include="Modules\AgregaAlumnoModule.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Modules\AgregarPersonaModule.Designer.cs">
-      <DependentUpon>AgregarPersonaModule.cs</DependentUpon>
+    <Compile Include="Modules\AgregaAlumnoModule.Designer.cs">
+      <DependentUpon>AgregaAlumnoModule.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modules\AlumnosModule.cs">
+    <Compile Include="Modules\AgregarEmpleadoModule.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Modules\AlumnosModule.Designer.cs">
-      <DependentUpon>AlumnosModule.cs</DependentUpon>
+    <Compile Include="Modules\AgregarEmpleadoModule.Designer.cs">
+      <DependentUpon>AgregarEmpleadoModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ActividadesModule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\ActividadesModule.Designer.cs">
+      <DependentUpon>ActividadesModule.cs</DependentUpon>
     </Compile>
     <Compile Include="Modules\CarrerasModule.cs">
       <SubType>UserControl</SubType>
@@ -71,11 +77,11 @@
     <Compile Include="Modules\CarrerasModule.Designer.cs">
       <DependentUpon>CarrerasModule.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modules\EspecialidadesModule.cs">
+    <Compile Include="Modules\CalificacionesModule.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Modules\EspecialidadesModule.Designer.cs">
-      <DependentUpon>EspecialidadesModule.cs</DependentUpon>
+    <Compile Include="Modules\CalificacionesModule.Designer.cs">
+      <DependentUpon>CalificacionesModule.cs</DependentUpon>
     </Compile>
     <Compile Include="Modules\GruposModule.cs">
       <SubType>UserControl</SubType>
@@ -89,28 +95,31 @@
     <Compile Include="Modules\HorariosModules.Designer.cs">
       <DependentUpon>HorariosModules.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modules\MateriasModule.cs">
+    <Compile Include="Modules\InasistenciasModule.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Modules\MateriasModule.Designer.cs">
-      <DependentUpon>MateriasModule.cs</DependentUpon>
+    <Compile Include="Modules\InasistenciasModule.Designer.cs">
+      <DependentUpon>InasistenciasModule.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\MainMenu.resx">
       <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modules\AgregarPersonaModule.resx">
-      <DependentUpon>AgregarPersonaModule.cs</DependentUpon>
+    <EmbeddedResource Include="Modules\AgregaAlumnoModule.resx">
+      <DependentUpon>AgregaAlumnoModule.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modules\AlumnosModule.resx">
-      <DependentUpon>AlumnosModule.cs</DependentUpon>
+    <EmbeddedResource Include="Modules\AgregarEmpleadoModule.resx">
+      <DependentUpon>AgregarEmpleadoModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ActividadesModule.resx">
+      <DependentUpon>ActividadesModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Modules\CarrerasModule.resx">
       <DependentUpon>CarrerasModule.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modules\EspecialidadesModule.resx">
-      <DependentUpon>EspecialidadesModule.cs</DependentUpon>
+    <EmbeddedResource Include="Modules\CalificacionesModule.resx">
+      <DependentUpon>CalificacionesModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Modules\GruposModule.resx">
       <DependentUpon>GruposModule.cs</DependentUpon>
@@ -118,8 +127,8 @@
     <EmbeddedResource Include="Modules\HorariosModules.resx">
       <DependentUpon>HorariosModules.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modules\MateriasModule.resx">
-      <DependentUpon>MateriasModule.cs</DependentUpon>
+    <EmbeddedResource Include="Modules\InasistenciasModule.resx">
+      <DependentUpon>InasistenciasModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

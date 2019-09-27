@@ -16,5 +16,10 @@ namespace PresentationLayer.Modules
         {
             InitializeComponent();
         }
+
+        private void GruposModule_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PresentationLayer.Modules
 {
-    public partial class EspecialidadesModule : UserControl
+    public partial class AgregarEmpleadoModule : UserControl
     {
-        public EspecialidadesModule()
+        public AgregarEmpleadoModule()
         {
             InitializeComponent();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

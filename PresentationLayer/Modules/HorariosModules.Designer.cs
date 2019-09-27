@@ -28,161 +28,347 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.hgrupo = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.hhour = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.tbClaveGrupo = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.hdays = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.eliminar = new System.Windows.Forms.Button();
-            this.editar = new System.Windows.Forms.Button();
-            this.agregar = new System.Windows.Forms.Button();
-            this.checkeddays = new System.Windows.Forms.CheckedListBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.tbCreditos = new System.Windows.Forms.TextBox();
+            this.tbHorasTeoricas = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tbHorasPracticas = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.tbNombre = new System.Windows.Forms.TextBox();
+            this.tbCarrera = new System.Windows.Forms.TextBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.bAgregarHorario = new System.Windows.Forms.Button();
+            this.bEditarHorario = new System.Windows.Forms.Button();
+            this.bEliminarHorairo = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.cbAula = new System.Windows.Forms.ComboBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.cbDia = new System.Windows.Forms.ComboBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.cbHora = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.cbGrupo = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.groupBox3.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // hgrupo
+            // groupBox3
             // 
-            this.hgrupo.Location = new System.Drawing.Point(89, 90);
-            this.hgrupo.Name = "hgrupo";
-            this.hgrupo.Size = new System.Drawing.Size(292, 20);
-            this.hgrupo.TabIndex = 82;
+            this.groupBox3.Controls.Add(this.tbClaveGrupo);
+            this.groupBox3.Controls.Add(this.label17);
+            this.groupBox3.Location = new System.Drawing.Point(28, 3);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(587, 62);
+            this.groupBox3.TabIndex = 169;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Búsqueda";
             // 
-            // label3
+            // tbClaveGrupo
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(3, 82);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(80, 28);
-            this.label3.TabIndex = 81;
-            this.label3.Text = "Grupo:";
+            this.tbClaveGrupo.Location = new System.Drawing.Point(196, 27);
+            this.tbClaveGrupo.Name = "tbClaveGrupo";
+            this.tbClaveGrupo.Size = new System.Drawing.Size(365, 20);
+            this.tbClaveGrupo.TabIndex = 152;
             // 
-            // hhour
+            // label17
             // 
-            this.hhour.AutoSize = true;
-            this.hhour.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hhour.Location = new System.Drawing.Point(543, 127);
-            this.hhour.Name = "hhour";
-            this.hhour.Size = new System.Drawing.Size(62, 28);
-            this.hhour.TabIndex = 88;
-            this.hhour.Text = "Hour";
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Location = new System.Drawing.Point(12, 19);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(178, 28);
+            this.label17.TabIndex = 151;
+            this.label17.Text = "Clave del Grupo:";
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Controls.Add(this.tbCreditos);
+            this.groupBox1.Controls.Add(this.tbHorasTeoricas);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.tbHorasPracticas);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.tbNombre);
+            this.groupBox1.Controls.Add(this.tbCarrera);
+            this.groupBox1.Location = new System.Drawing.Point(28, 72);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(456, 242);
+            this.groupBox1.TabIndex = 170;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Datos Materia:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(419, 127);
+            this.label4.Location = new System.Drawing.Point(6, 201);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(66, 28);
-            this.label4.TabIndex = 87;
-            this.label4.Text = "Hora:";
+            this.label4.Size = new System.Drawing.Size(229, 28);
+            this.label4.TabIndex = 173;
+            this.label4.Text = "Cantidad de Créditos:";
             // 
-            // hdays
+            // label3
             // 
-            this.hdays.AutoSize = true;
-            this.hdays.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hdays.Location = new System.Drawing.Point(510, 90);
-            this.hdays.Name = "hdays";
-            this.hdays.Size = new System.Drawing.Size(131, 28);
-            this.hdays.TabIndex = 86;
-            this.hdays.Text = "DayOfWeek";
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(6, 150);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(162, 28);
+            this.label3.TabIndex = 173;
+            this.label3.Text = "Horas teóricas:";
             // 
-            // label1
+            // tbCreditos
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(419, 90);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(51, 28);
-            this.label1.TabIndex = 85;
-            this.label1.Text = "Día:";
+            this.tbCreditos.Location = new System.Drawing.Point(247, 209);
+            this.tbCreditos.Name = "tbCreditos";
+            this.tbCreditos.Size = new System.Drawing.Size(193, 20);
+            this.tbCreditos.TabIndex = 174;
             // 
-            // eliminar
+            // tbHorasTeoricas
             // 
-            this.eliminar.Location = new System.Drawing.Point(343, 298);
-            this.eliminar.Name = "eliminar";
-            this.eliminar.Size = new System.Drawing.Size(159, 53);
-            this.eliminar.TabIndex = 92;
-            this.eliminar.Text = "Modificar";
-            this.eliminar.UseVisualStyleBackColor = true;
-            // 
-            // editar
-            // 
-            this.editar.Location = new System.Drawing.Point(178, 298);
-            this.editar.Name = "editar";
-            this.editar.Size = new System.Drawing.Size(159, 53);
-            this.editar.TabIndex = 91;
-            this.editar.Text = "Editar";
-            this.editar.UseVisualStyleBackColor = true;
-            // 
-            // agregar
-            // 
-            this.agregar.Location = new System.Drawing.Point(13, 298);
-            this.agregar.Name = "agregar";
-            this.agregar.Size = new System.Drawing.Size(159, 53);
-            this.agregar.TabIndex = 90;
-            this.agregar.Text = "Agegar";
-            this.agregar.UseVisualStyleBackColor = true;
-            // 
-            // checkeddays
-            // 
-            this.checkeddays.FormattingEnabled = true;
-            this.checkeddays.Items.AddRange(new object[] {
-            "Lunes",
-            "Martes",
-            "Miércoles",
-            "Jueves",
-            "Viernes"});
-            this.checkeddays.Location = new System.Drawing.Point(89, 157);
-            this.checkeddays.Name = "checkeddays";
-            this.checkeddays.Size = new System.Drawing.Size(154, 109);
-            this.checkeddays.TabIndex = 94;
+            this.tbHorasTeoricas.Location = new System.Drawing.Point(247, 158);
+            this.tbHorasTeoricas.Name = "tbHorasTeoricas";
+            this.tbHorasTeoricas.Size = new System.Drawing.Size(193, 20);
+            this.tbHorasTeoricas.TabIndex = 174;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(22, 148);
+            this.label2.Location = new System.Drawing.Point(6, 104);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 28);
-            this.label2.TabIndex = 93;
-            this.label2.Text = "Días:";
+            this.label2.Size = new System.Drawing.Size(173, 28);
+            this.label2.TabIndex = 171;
+            this.label2.Text = "Horas prácticas:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(6, 61);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(100, 28);
+            this.label1.TabIndex = 171;
+            this.label1.Text = "Nombre:";
+            // 
+            // tbHorasPracticas
+            // 
+            this.tbHorasPracticas.Location = new System.Drawing.Point(247, 112);
+            this.tbHorasPracticas.Name = "tbHorasPracticas";
+            this.tbHorasPracticas.Size = new System.Drawing.Size(193, 20);
+            this.tbHorasPracticas.TabIndex = 172;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(6, 16);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(91, 28);
+            this.label6.TabIndex = 171;
+            this.label6.Text = "Carrera:";
+            // 
+            // tbNombre
+            // 
+            this.tbNombre.Location = new System.Drawing.Point(247, 69);
+            this.tbNombre.Name = "tbNombre";
+            this.tbNombre.Size = new System.Drawing.Size(193, 20);
+            this.tbNombre.TabIndex = 172;
+            // 
+            // tbCarrera
+            // 
+            this.tbCarrera.Location = new System.Drawing.Point(247, 24);
+            this.tbCarrera.Name = "tbCarrera";
+            this.tbCarrera.Size = new System.Drawing.Size(193, 20);
+            this.tbCarrera.TabIndex = 172;
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.bAgregarHorario);
+            this.panel1.Controls.Add(this.bEditarHorario);
+            this.panel1.Controls.Add(this.bEliminarHorairo);
+            this.panel1.Location = new System.Drawing.Point(3, 347);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(825, 61);
+            this.panel1.TabIndex = 171;
+            // 
+            // bAgregarHorario
+            // 
+            this.bAgregarHorario.Location = new System.Drawing.Point(3, 3);
+            this.bAgregarHorario.Name = "bAgregarHorario";
+            this.bAgregarHorario.Size = new System.Drawing.Size(268, 53);
+            this.bAgregarHorario.TabIndex = 141;
+            this.bAgregarHorario.Text = "Agegar";
+            this.bAgregarHorario.UseVisualStyleBackColor = true;
+            // 
+            // bEditarHorario
+            // 
+            this.bEditarHorario.Location = new System.Drawing.Point(277, 3);
+            this.bEditarHorario.Name = "bEditarHorario";
+            this.bEditarHorario.Size = new System.Drawing.Size(271, 53);
+            this.bEditarHorario.TabIndex = 142;
+            this.bEditarHorario.Text = "Editar";
+            this.bEditarHorario.UseVisualStyleBackColor = true;
+            // 
+            // bEliminarHorairo
+            // 
+            this.bEliminarHorairo.Location = new System.Drawing.Point(554, 3);
+            this.bEliminarHorairo.Name = "bEliminarHorairo";
+            this.bEliminarHorairo.Size = new System.Drawing.Size(268, 53);
+            this.bEliminarHorairo.TabIndex = 143;
+            this.bEliminarHorairo.Text = "Eliminar";
+            this.bEliminarHorairo.UseVisualStyleBackColor = true;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.cbAula);
+            this.groupBox2.Controls.Add(this.label9);
+            this.groupBox2.Controls.Add(this.cbDia);
+            this.groupBox2.Controls.Add(this.label8);
+            this.groupBox2.Controls.Add(this.cbHora);
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Controls.Add(this.cbGrupo);
+            this.groupBox2.Controls.Add(this.label5);
+            this.groupBox2.Location = new System.Drawing.Point(491, 72);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(334, 193);
+            this.groupBox2.TabIndex = 172;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Datos Grupo:";
+            // 
+            // cbAula
+            // 
+            this.cbAula.FormattingEnabled = true;
+            this.cbAula.Location = new System.Drawing.Point(135, 157);
+            this.cbAula.Name = "cbAula";
+            this.cbAula.Size = new System.Drawing.Size(193, 21);
+            this.cbAula.TabIndex = 183;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(9, 150);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(63, 28);
+            this.label9.TabIndex = 182;
+            this.label9.Text = "Aula:";
+            // 
+            // cbDia
+            // 
+            this.cbDia.FormattingEnabled = true;
+            this.cbDia.Location = new System.Drawing.Point(135, 111);
+            this.cbDia.Name = "cbDia";
+            this.cbDia.Size = new System.Drawing.Size(193, 21);
+            this.cbDia.TabIndex = 181;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(6, 104);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(51, 28);
+            this.label8.TabIndex = 180;
+            this.label8.Text = "Día:";
+            // 
+            // cbHora
+            // 
+            this.cbHora.FormattingEnabled = true;
+            this.cbHora.Location = new System.Drawing.Point(135, 69);
+            this.cbHora.Name = "cbHora";
+            this.cbHora.Size = new System.Drawing.Size(193, 21);
+            this.cbHora.TabIndex = 179;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(6, 61);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(66, 28);
+            this.label7.TabIndex = 178;
+            this.label7.Text = "Hora:";
+            // 
+            // cbGrupo
+            // 
+            this.cbGrupo.FormattingEnabled = true;
+            this.cbGrupo.Location = new System.Drawing.Point(135, 19);
+            this.cbGrupo.Name = "cbGrupo";
+            this.cbGrupo.Size = new System.Drawing.Size(193, 21);
+            this.cbGrupo.TabIndex = 177;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft YaHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(6, 16);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(80, 28);
+            this.label5.TabIndex = 175;
+            this.label5.Text = "Grupo:";
             // 
             // HorariosModules
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.checkeddays);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.eliminar);
-            this.Controls.Add(this.editar);
-            this.Controls.Add(this.agregar);
-            this.Controls.Add(this.hhour);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.hdays);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.hgrupo);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.groupBox3);
             this.Name = "HorariosModules";
-            this.Size = new System.Drawing.Size(657, 363);
+            this.Size = new System.Drawing.Size(853, 416);
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TextBox hgrupo;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.TextBox tbClaveGrupo;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label hhour;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label hdays;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button eliminar;
-        private System.Windows.Forms.Button editar;
-        private System.Windows.Forms.Button agregar;
-        private System.Windows.Forms.CheckedListBox checkeddays;
+        private System.Windows.Forms.TextBox tbHorasTeoricas;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox tbHorasPracticas;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox tbNombre;
+        private System.Windows.Forms.TextBox tbCarrera;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox tbCreditos;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button bAgregarHorario;
+        private System.Windows.Forms.Button bEditarHorario;
+        private System.Windows.Forms.Button bEliminarHorairo;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.ComboBox cbAula;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.ComboBox cbDia;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.ComboBox cbHora;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox cbGrupo;
+        private System.Windows.Forms.Label label5;
+
     }
 }

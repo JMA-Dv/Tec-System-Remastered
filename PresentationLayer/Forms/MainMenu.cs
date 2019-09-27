@@ -19,31 +19,36 @@ namespace PresentationLayer
         {
             InitializeComponent();
 
-            var AgregarPersona = new AgregarPersonaModule();
-            var Alumnos = new AlumnosModule();
-            var Carreras = new CarrerasModule();
-            var Especialidades = new EspecialidadesModule();
+            var AgregarAlumno = new AgregaAlumnoModule();
+            var AgregarProfesor = new AgregarEmpleadoModule();
+            var Actividades = new ActividadesModule();
+            var Calificaciones = new CalificacionesModule();
             var Grupos = new GruposModule();
             var Horarios = new HorariosModules();
-            var Materias = new MateriasModule();
+            var Inasistencias = new InasistenciasModule();
+            var Carreras = new CarrerasModule();
 
-            modules[agregarpersonas.Name] = AgregarPersona;
-            modules[alumnos.Name] = Alumnos;
-            modules[carrera.Name] = Carreras;
-            modules[especialidades.Name] = Especialidades;
-            modules[grupos.Name] = Grupos;
-            modules[horario.Name] = Horarios;
-            modules[materias.Name] = Materias;
+            modules[bAgregarAlumnos.Name] = AgregarAlumno;
+            modules[bAgregarEmpleados.Name] = AgregarProfesor;
+            modules[bCalificaciones.Name] = Calificaciones;
+            modules[bGrupos.Name] = Grupos;
+            modules[bHorarios.Name] = Horarios;
+            modules[bInasistencias.Name] = Inasistencias;
+            modules[bActividades.Name] = Actividades;
+            modules[bCarreras.Name] = Carreras;
 
-            ShowModule(agregarpersonas.Name);
+            ShowModule(bAgregarAlumnos.Name);
 
-            agregarpersonas.Click += ButtonClick;
-            materias.Click += ButtonClick;
-            alumnos.Click += ButtonClick;
-            grupos.Click += ButtonClick;
-            especialidades.Click += ButtonClick;
-            carrera.Click += ButtonClick;
-            horario.Click += ButtonClick;
+            bAgregarAlumnos.Click += ButtonClick;
+            bAgregarEmpleados.Click += ButtonClick;
+            bInasistencias.Click += ButtonClick;
+            bGrupos.Click += ButtonClick;
+            bCalificaciones.Click += ButtonClick;
+            bActividades.Click += ButtonClick;
+            bHorarios.Click += ButtonClick;
+            bActividades.Click += ButtonClick;
+            bCarreras.Click += ButtonClick;
+
         }
 
         private void ButtonClick(object sender, EventArgs e)
@@ -65,6 +70,11 @@ namespace PresentationLayer
             }
 
             module.BringToFront();
+        }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

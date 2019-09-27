@@ -17,3 +17,12 @@ C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\bin\Debug\Enti
 C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
 C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.dll
 C:\Users\carp_\Desktop\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+E:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+E:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+E:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+H:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+H:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+H:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+D:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+D:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+D:\Tec-System-Remastered - Copy\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

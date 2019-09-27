@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PresentationLayer.Modules
 {
-    public partial class AlumnosModule : UserControl
+    public partial class CalificacionesModule : UserControl
     {
-        public AlumnosModule()
+        public CalificacionesModule()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

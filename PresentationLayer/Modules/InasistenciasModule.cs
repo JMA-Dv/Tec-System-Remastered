@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PresentationLayer.Modules
 {
-    public partial class AgregarPersonaModule : UserControl
+    public partial class InasistenciasModule : UserControl
     {
-        public AgregarPersonaModule()
+        public InasistenciasModule()
         {
             InitializeComponent();
         }
